@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylebyron
-- 👀 I’m interested in API documentation
-- 🌱 I’m currently learning DITA
+- 👀 I’m interested in virtual reality, augmented reality, and mixed reality projects!
+- 🌱 I’m currently learning DITA, writing for developers, and managing a new doc portal
 - 💞️ I’m looking to collaborate on an open source project that needs technical documentation
 - 📫 How to reach me: kylebyron@gmail.com
 
