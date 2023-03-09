@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylebyron
 - 👀 I’m interested in virtual reality, augmented reality, and mixed reality projects!
-- 🌱 I’m currently learning large language models (ChatGPT), writing for developers, and managing a new doc portal
+- 🌱 I’m currently learning large language models (ChatGPT), writing for developers, and managing a developer doc portal
 - 💞️ I’m looking to collaborate on an open source project that needs technical documentation
 - 📫 How to reach me: kylebyron@gmail.com
 
