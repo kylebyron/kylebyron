@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kylebyron
-- 👀 I’m interested in virtual reality, augmented reality, and mixed reality projects!
-- 🌱 I’m currently learning DITA, writing for developers, and managing a new doc portal
-- 💞️ I’m looking to collaborate on an open source project that needs technical documentation
+- 👀 I’m interested in AI-driven content creation for developers
+- 🌱 I’m currently deeply focused on integrating Manus, Claude Code, OpenClaw, and Anthropic tools into my daily workflows.
+- 💞️ I’m looking to collaborate on AI projects that need AI-driven developer content, optimized for AI ingestion.
 - 📫 How to reach me: kylebyron@gmail.com
 
 <!---
