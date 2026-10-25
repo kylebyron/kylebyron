@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kylebyron
-- 👀 I’m interested in AI-driven content creation for developers. Currently working at knownsystems.ai
-- 🌱 I’m currently deeply focused on integrating Manus, Claude Code, OpenClaw, and OpenAI tools into my daily workflows.
-- 💞️ I’m looking to collaborate on AI projects that need AI-driven developer content, optimized for AI ingestion. I've written some pretty cool white papers and protocol-level developer docs along the way at Meta, and other companies that shall not be named.
+- 👀 I’m interested in virtual reality, augmented reality, and mixed reality projects!
+- 🌱 I’m currently learning large language models (ChatGPT), writing for developers, and managing a developer doc portal
+- 💞️ I’m looking to collaborate on an open source project that needs technical documentation
 - 📫 How to reach me: kylebyron@gmail.com
 
 <!---
